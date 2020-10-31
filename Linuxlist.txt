@@ -1,0 +1,249 @@
+Red Hat Linux	Split into Fedora Core and Red Hat Enterprise Linux. The last official release of the unsplit distribution was Red Hat Linux 9 in March 2003.
+CentOS	Community-supported Linux distribution designed as an OpenSource version of RHEL and well suited for servers. Now sponsored by Red Hat.[1]
+Fedora	Community-supported Linux distribution sponsored by Red Hat.
+openSUSE	A community-developed Linux distribution, sponsored by SUSE. It maintains a strict policy of ensuring all code in the standard installs will be from FOSS solutions, including Linux kernel Modules. SUSE's enterprise Linux products are all based on the codebase that comes out of the openSUSE project.
+Mandrake Linux	The first release was based on Red Hat Linux (version 5.1) and KDE 1 in July 1998. It had since moved away from Red Hat's distribution and became a completely separate distribution. The name was changed to Mandriva, which included a number of original tools, mostly to ease system configuration. Mandriva Linux was the brainchild of Gaël Duval, who wanted to focus on ease of use for new users.
+Asianux	A Linux distribution co-developed between Red Flag Software Co., Ltd., Miracle Linux Corp. and Haansoft, INC., focused on Chinese, Japanese and Korean support.
+ClearOS	Small Business Server. File, Print, Messaging, UTM, VPN.
+Fermi Linux LTS	Based on Scientific Linux.[2]
+Miracle Linux	Developed by Japanese software vendor Miracle Linux Co., Ltd
+Oracle Linux	Supported by Oracle. Aims to be fully compatible with Red Hat Enterprise Linux.
+Red Flag Linux	A Linux distribution developed in China and optimized for the Chinese market. Based on Asianux.
+Rocks Cluster Distribution	A Linux distribution for building a High-Performance Computing computer cluster, with a recent release supporting Cloud computing. It is based on Red Hat Enterprise Linux but with extensions to support large multi-node heterogeneous systems for clusters (HPC), Cloud, and Data Warehousing (in development).
+Scientific Linux	A discontinued Linux distribution co-developed by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN), which aims to be compatible with and based on Red Hat Enterprise Linux.
+Amazon Linux 2	Amazon Linux 2 is available as an Amazon Machine Image (AMI) for use on Amazon Elastic Compute Cloud (Amazon EC2). It is also available as a Docker container image and as a virtual machine image for use on Kernel-based Virtual Machine (KVM), Oracle VM VirtualBox, Microsoft Hyper-V, and VMware ESXi
+Berry Linux	A medium-sized Fedora-based distribution that provides support in Japanese and English.
+BLAG Linux and GNU	A completely free software distribution.
+EnGarde Secure Linux	Server-only Linux distribution designed to be secure.[4]
+Fuduntu	Designed to fit in somewhere between Fedora and Ubuntu.
+Hanthana	Designed to cater the needs of Sri Lankan computer users who are unable to access Internet frequently, with many most-wanted applications built in.
+Korora	Initially aimed at easy installation of a Gentoo system by using install scripts instead of manual configuration. Now based on Fedora.
+Linpus Linux	Focused on the Chinese market, along with Linpus Lite focused on the netbook market.
+Linux XP	Fedora-based shareware distribution designed to imitate the Windows environment using GNOME.
+MeeGo	Built by Intel and Nokia, intended for mobile phones (mainly Nokia N9) and tablets. It is based on Moblin together with Maemo.
+Moblin	Built around the Intel Atom processor; supplanted by Meego when Intel and (temporarily) Nokia combined activities
+Network Security Toolkit	A Live CD/DVD with security and networking tools to perform routine security and networking diagnostic and monitoring tasks.
+Qubes OS	Focused on security for desktop users. Based on an "ancient" Fedora release which we are somewhere said it to upgrade under YUM.
+Russian Fedora Remix	A remix of Fedora.
+Sugar-on-a-Stick Linux	An educational operating system for the children of the OpenMandriva world, originally designed for the One-Laptop-Per-Child project.
+Trustix	A Linux distribution focused on security.[5]
+Yellow Dog Linux	For the PowerPC platform.
+SUSE Linux Enterprise Desktop	Previously branded Novell Linux Desktop. A desktop-oriented Linux distribution supplied by SUSE and targeted at the enterprise market.
+SUSE Linux Enterprise Server	A server-oriented Linux distribution supplied by SUSE and targeted at the business market.
+SUSE Studio	SuSE studio is the html5 frontend over KIWI.
+GeckoLinux Have offline Live-USB/DVD installer, editions with a different desktop environment, have pre-installed programs like a proprietary drivers. Have Static and Rolling editions.
+Mandriva Linux	Open-source distribution (with exceptions), discontinued in 2011.
+Mageia	A community Linux distribution initially forked from Mandriva Linux in response to the discontinuation of free versions of Mandriva Linux.
+ROSA Linux	A Russian distribution available in three different editions: ROSA Desktop Fresh, ROSA Enterprise Desktop and ROSA Enterprise Linux Server, with the latter two aiming at commercial users. Its desktop editions come bundled with proprietary software such as Adobe Flash Player, multimedia codecs and Steam.
+OpenMandriva	The last release of Mandriva Linux was in August 2011. Most developers who were laid off went to Mageia.[5] Later on, the remaining developers teamed up with community members and formed OpenMandriva, a continuation of Mandriva.
+Unity Linux	Meant to be a base for custom distributions.
+
+PCLinuxOS	A rolling release Linux Live CD distribution. Originally based on Mandrake 9.2. Later rebased on Mandriva 2007.
+Vine Linux	A Japanese distribution originally based on Red Hat Linux.
+ALT Linux	ALT Linux is a set of RPM-based operating systems built on top of the Linux kernel and Sisyphus packages repository. ALT Linux has been developed collectively by ALT Linux Team developers community and ALT Linux Ltd.
+Caldera OpenLinux	A Linux distribution originally introduced by Caldera and later developed by its subsidiary Caldera Systems. It was later developed by Caldera International (which bought SCO and was renamed The SCO Group). The distribution is no longer produced. Last release: 3.1.1 – Jan. 30, 2002
+cAos Linux	A general purpose Linux distribution. Designed to have low overhead, run on older hardware, and be easily customizable.
+Turbolinux	Originally based on Red Hat Linux.
+BackTrack	Developed by Offensive Security and designed for penetration testing.[8] In March 2013, the Offensive Security team rebuilt BackTrack around the Debian distribution and released it under the name Kali Linux.[9]
+gLinux	gLinux Is a Linux Distro used for Google Employees.
+Kali Linux	Made to be a completely customizable OS, used for penetration testing. It is based on Debian GNU/Linux and is used mostly by security experts[10]
+Parsix	Optimized for personal computers and laptops. Built on top of Debian testing branch and comes with security support.[11]
+PureOS	A GNU/Linux distribution based on Debian with a focus on privacy, security, and convenience.[12][13][14][15]
+Astra Linux	A Russian Linux-based computer operating system developed to meet the needs of the Russian army, other armed forces and intelligence agencies.[16] It provides data protection up to the level of "top secret" in Russian classified information grade. It has been officially certified by Russian Defense Ministry, Federal Service for Technical and Export Control[17] and Federal Security Service.[18]
+Ubuntu	A free and open-source operating system and Linux distribution based on Debian
+Kubuntu	An official derivative of Ubuntu Linux using KDE instead of the GNOME (or Unity) interface used by default in Ubuntu.[21]
+Lubuntu	Lubuntu is a project that is an official derivative of the Ubuntu operating system that is "lighter, less resource hungry and more energy-efficient", using the LXQt desktop environment (used LXDE before 18.10).[22][23][24]
+Ubuntu Budgie	An official derivative of Ubuntu using Budgie.
+Ubuntu Kylin	An official derivative aimed at the Chinese market.
+Ubuntu MATE	An official derivative of Ubuntu using MATE, a desktop environment forked from the now-defunct GNOME 2 code base, with an emphasis on the desktop metaphor.[25]
+Ubuntu Server	An official derivative made for use in servers & IBM mainframes. Ubuntu Server handles mail, controls printers, acts as a fileserver, can host LAMP and more.[26]
+Ubuntu Studio	Based on Ubuntu, providing open-source applications for multimedia creation aimed at the audio, video and graphic editors.[27]
+Xubuntu	An official derivative of Ubuntu using Xfce. Xubuntu is intended for use on less-powerful computers or those who seek a highly efficient desktop environment on faster systems, and uses mostly GTK+ applications.[28]
+Edubuntu	A complete Linux based operating system that was targeted for primary and secondary education. Outdated versions are freely available with community-based support. The Edubuntu community is built on the ideas enshrined in the Edubuntu Manifesto: that software, especially for education, should be available free of charge and that software tools should be usable by people in their local language and despite any disabilities.[29]
+Gobuntu	Gobuntu was an official derivative of the Ubuntu operating system, aiming to provide a distribution consisting entirely of free software. It was officially announced by Mark Shuttleworth on July 10, 2007, and daily builds of Gobuntu 7.10 began to be publicly released. The project ended around the release of 8.04 and has since merged into mainline Ubuntu as a 'free software' option.[30]
+Mythbuntu	Based on Ubuntu and MythTV, providing applications for recording TV and acting as a media center.[31] On 4 November 2016 the development team announced the end of Mythbuntu as a separate distribution, citing insufficient developers.
+Ubuntu for Android	Designed for use with Android phones.[32] No longer under active development.
+Ubuntu GNOME	Formerly an official Ubuntu variant,[33] but since the main Ubuntu 17.10, which uses GNOME Shell as its default desktop and GDM as its display manager, this distro has been merged into mainline releases.[34]
+Ubuntu JeOS	"Just Enough OS" – was described as "an efficient variant [...] configured specifically for virtual appliances".[35] Since the release of Ubuntu 8.10 it has been included as an option as part of the standard Ubuntu Server Edition.
+Ubuntu Mobile	An embedded operating system designed for use on mobile devices. The operating system will use Hildon from maemo as its graphical frontend. Ubuntu Touch is a successor to Ubuntu Mobile.
+Ubuntu Netbook Edition	Netbook Edition was an official derivative of Ubuntu designed for netbooks using the Intel Atom processor. Starting from Ubuntu 11.04, Ubuntu Netbook Edition has been merged into the desktop edition.[36]
+Ubuntu Touch	Designed for use with touchscreen devices.
+Ubuntu TV	Designed for use with TVs.[37]
+BackBox	BackBox is a Linux distribution based on Ubuntu. It has been developed to perform penetration tests and security assessments. Designed to be fast, easy to use and provide a minimal yet complete desktop environment, thanks to its own software repositories, always being updated to the latest stable version of the most used and best known ethical hacking tools.[38]
+BackSlash Linux	BackSlash Linux is an Ubuntu and Debian-based operating system for AMD64 and Intel x64 based Personal Computers developed in India. It is based on free software and every release of the operating System is named after the characters of the Disney blockbuster, Frozen.[39]
+Bodhi Linux	An Ubuntu-based Linux distribution featuring the Moksha Desktop environment and targeting users who want a minimum of preinstalled software or low system requirements.[40]
+Cub Linux	Ubuntu-based distribution designed to mimic the desktop appearance and functionality of Chrome OS.[41][42][43]
+dyne:bolic	Live CD geared toward multimedia (audio and video) production, but comes with other non-media specific application (e.g. word processor, desktop publisher)[44]
+EasyPeasy	Fork of Ubuntu designed for netbooks[45]
+Eeebuntu	Specifically for the Eee PC range of netbooks, based on Debian. Also rebranded as Aurora OS.[46]
+Element OS	Based on Xubuntu, made for Home theater PCs[47]
+elementary OS	A distribution focussing mainly on non-technical users, has a pay-what-you-want model.[48]
+Emmabuntüs	Based on Xubuntu designed to facilitate the repacking of computers donated to Emmaüs Communities.[49]
+GalliumOS	GalliumOS is a Linux distribution for Chrome OS devices, developed by the community-supported GalliumOS project. Gallium is based on Xubuntu and maintains compatibility with the Ubuntu repositories.[50]
+GendBuntu	A version adapted for use by France's National Gendarmerie.
+Goobuntu	An Ubuntu-based distribution that was used internally by Google (until changing to non-Ubuntu, Debian-based GLinux); not available outside of Google
+gOS	Uses the GNOME desktop environment with user interface enhancements to make it work more like Mac OS X, it also features Google Apps, Picasa, Google Gadgets and other web-based applications, and comes with Wine 1.0 pre-installed.
+Joli OS	Joli OS (formerly named Jolicloud) is in development and Pre-beta testing. Joli OS is built upon Debian and Ubuntu 9.10, but is tweaked to be more suitable for computers that have weaker specifications in terms of disk storage, memory and screen size. It is designed to run on relatively low-powered netbook computers.[51]
+Karoshi	A formerly PCLinuxOS-based distribution designed for use in schools.[52]
+KDE neon	Focused on the development of KDE. The emphasis is on bleeding edge software packages sourced directly from KDE and offers programmers early access to new features, but potentially at the cost of greater susceptibility to software bugs.[53]
+LiMux	A project by the city council of Munich, Germany
+Linux Lite	The purpose of Linux Lite is to introduce Windows users to Linux, and provide them with a comfortable and useful user experience. It is designed to be simple and suitable for new Linux users who want a lightweight, highly responsive, and fully functional environment.[54]
+Linux Mint	Linux Mint synchronizes its release-cycle with Ubuntu's long term support, and is tailored to user-friendliness for desktop users.[55] Linux Mint Debian Edition (LMDE) is Mint's Debian stable based version. Its purpose is to use Debian base packages/kernel under the hood should Ubuntu ever disappear. it's also used by Mint developers to develop their Cinnamon desktop.
+LinuxMCE	Linux Media Center Edition, a Kubuntu-based distribution that provides in-depth HTPC functionality as well as home automation.[56]
+LinuxTLE	A Thai Linux distribution[57]
+LliureX	A distribution by the Generalitat Valenciana[58]
+MAX	Stands for Madrid LinuX[59]
+Molinux	Ubuntu based initiative to introduce the Castile-La Mancha community in Spain to the information society.[60]
+Netrunner	Kubuntu based distribution with complete software and codecs installed, developed by Blue Systems (also sponsoring Kubuntu and LinuxMintKDE).[61]
+Nova	Cuban state-sponsored distribution developed at the University of Information Science, Havana. Formerly based on Gentoo.
+OpenGEU	Ubuntu based distribution with Enlightenment window manager, previously known as Geubuntu.[62]
+Peppermint OS	A light-weight LXDE distribution for cloud applications through its own Ice Framework using Chromium Web Browser. Based on Lubuntu[63]
+Pinguy OS	An Ubuntu-based distro for people that have never used Linux before or for people that want an out-of-the-box working OS without having to tweak a fresh installation of Ubuntu or other Ubuntu-based distro.[64]
+Pop! OS	An Ubuntu-based distro developed by System76 predominantly for use on hardware that they manufacture
+Poseidon Linux	For academic and scientific use. Based on Ubuntu, but enhanced by GIS/maps, numerical modelling, 2D/3D/4D visualization, statistics, tools for creating simple and complex graphics, programming languages.
+Sabily	Ubuntu based distribution for Muslims (formerly Ubuntu Muslim Edition)[65]
+Trisquel GNU/Linux	Fully free-software system without proprietary software or firmware and uses the Linux-libre kernel, based on Ubuntu LTS Releases[66]
+UberStudent	For higher education and advanced secondary students, those who teach them, and lifelong learners[67]
+Ubuntu Unity	Using the Unity (user interface)[68]
+Ututo	Ututo UL ("Ubuntu-Libre") Distributes Simusol, a system to simulate Solar Energy projects, returned to the heart of the project.[69]
+Vinux	A Linux distribution designed for visually impaired users[70]
+Zorin OS	Zorin OS is a user-friendly distribution that can emulate Microsoft Windows or Mac OSX. It is meant for users unfamiliar with Linux.[71]
+Astra Linux	OS developed for Russian Army with raised security.[72]
+Bharat Operating System Solutions (BOSS)	Indian Linux distribution[73]
+Canaima	A Venezuelan Linux distribution.[74]
+Corel Linux	Commercial. Short-lived desktop Linux distribution, bought by Xandros Linux.[75]
+CrunchBang Linux	A small Linux Distro and Live CD based on Debian Stable, featuring the Openbox window manager and tint2 panel with GTK+ applications.[76] Development has ended for CrunchBang as of February, 2015.[77]
+Deepin	A Debian-based Chinese Linux Distribution developed by Wuhan Deepin Technology Co.
+Devuan	A fork of Debian begun in 2014 with the primary goal of allowing user choice in init systems, by decoupling software packages from systemd.[78]
+Dreamlinux	A Brazilian Linux distribution (not active anymore)
+Emdebian Grip	A small-footprint Linux distribution based on and compatible with Debian, intended for use on resource-limited embedded systems.[79]
+Finnix	A small system-administration Live CD that is available for multiple architectures[80]
+gNewSense	Originally based on Ubuntu and later upon Debian, and developed with sponsorship from the Free Software Foundation. Its goal is user-friendliness, but with all proprietary (e.g. binary blobs) and non-free software removed.
+grml	Live CD for system recovery[81]
+HandyLinux	Designed for senior citizens running old computers for which Windows has become too slow[82]
+Kanotix	An installable live DVD/CD for desktop usage using KDE and LXDE, focusing on convenient scripts and GUI for ease of use.[83]
+Knoppix	The first Live CD (later DVD) version of Debian.
+Kurumin	Earlier, it was a version of the Knoppix distribution, modified with Debian and designed for Brazilian users.
+LEAF Project	The Linux Embedded Appliance Framework. A tiny primarily floppy-based distribution for routers, firewalls and other appliances.[84]
+LiMux	An ISO 9241 industry workplace certified Linux distribution, deployed at the City of Munich, Germany.[85]
+Maemo	A development platform for hand held devices such as the Nokia N800, N810, and Nokia N900 Internet Tablets and other Linux kernel–based devices.[86]
+MEPIS	Focuses on ease of use. Also includes a lightweight variant called antiX. antiX is meant to be used on older computers with limited hardware. There is also a Xfce distro called MX Linux that's based on Debian Stable.
+MintPPC	For PowerPC computers. Although MintPPC uses some Mint LXDE code, it is not Linux Mint.[87]
+Musix GNU+Linux	Intended for music production, graphic design, audio, video editing, and other tasks. It is built with only free software.[88]
+NepaLinux	A Debian- and Morphix-based distribution focused for desktop usage in Nepali language computing.[89]
+OpenZaurus	Debian packages and ROM image for the Sharp Zaurus PDA. Replaced by Ångström distribution.[90]
+Pardus	Developed by Turkish National Research Institute of Electronics and Cryptology. Prior to 2013 it used PISI as the package manager, with COMAR as the configuration framework. Starting with Pardus 2013, it is Debian-based.
+PelicanHPC	Dedicated to setting up a computer cluster.[91]
+Raspberry Pi OS	Desktop-oriented distribution, formerly called Raspbian. Developed by the Raspberry Pi Foundation as the official OS for their family of low-power single-board computers.
+Sacix	Sacix is a Debian Pure Blend originally created to support the educational and free software diffusion goals of the Telecentres project of the city of São Paulo, Brazil.
+Skolelinux	A Linux distribution from Norway, now the basepoint for and now synonymous to Debian EDU. It provides as a thin client distribution for schools.[92]
+Slax (since version 4)	Slax is a light-weight Linux distribution now based on Debian, for low-powered computers. It's download size is about 300 MB, almost the same as Puppy Linux's. It can run from RAM, from Live CD, USB or Hard drive. It was previously based on Slackware.
+SolydXK	Xfce and KDE desktop focused on stability, security and ease of use.[93]
+SparkyLinux	SparkyLinux is a Debian-based Linux distribution which provides ready to use, out of the box operating system with a set of slightly customized lightweight desktops. Sparky is targeted to all the computer's users who want replace existing, proprietary driven OS to an open-sourced..
+SteamOS	Debian-based and gaming-focused distribution developed by Valve and designed around the Steam digital distribution platform.
+Sunwah Linux	A Chinese Linux distribution[94]
+Symphony OS	Includes the Mezzo desktop environment. Previous versions were based on Knoppix.[95]
+The Amnesic Incognito Live System (TAILS)	The Amnesic Incognito Live System' or Tails is aimed at preserving privacy and anonymity, with all outgoing connections forced to go through Tor.[96]
+TurnKey GNU/Linux	Open source project developing a family of free, Debian-based appliances optimized for ease of use in server-type usage scenarios.[97] Based on Debian since 2012; previously based on Ubuntu.
+Univention Corporate Server	Enterprise distribution with integrated IT infrastructure and identity management system by the company Univention GmbH, Germany. A full version for up to 5 users for tests and for private use can be downloaded for free.[98]
+Webconverger	Debian Live based browser only distribution, similar to Google Chrome OS. However based on Firefox and dwm, with no user sign-in, no special hardware required and designed for public places.[99]
+Vyatta	Commercial open source network operating system includes routing, firewall, VPN, intrusion prevention and more. Designed to be an open source Cisco replacement.[100]
+VyOS	Free routing platform. Because VyOS is run on standard amd64, i586 and ARM systems, it is able to be used as a router and firewall platform for cloud deployments.
+antiX	It is comparatively lightweight and suitable for older computers, while also providing kernel and applications, as well as updates and additions via the Aptitude and Debian-compatible repositories.
+MX Linux	A midweight OS based on Debian Stable with core components from antiX and using Xfce, offering simple configuration, high stability, solid performance and medium-sized footprint.
+Damn Small Linux	A small Linux distro designed to run on older hardware. It is commonly used on virtual machines due to low memory requirements.[103]
+Feather Linux	Boots from either a CD or a USB flash drive. Uses Knoppix-based hardware detection and the Fluxbox window manager.[104]
+Hikarunix	A Linux distribution solely for studying and playing the game of Go. Based on Damn Small Linux.[105]
+Anarchy	A terminal-based Arch Linux installer on an ISO image
+ArchBang	Based on Arch Linux, but also provides Live CDs with working system and graphical installation scripts; uses Openbox as default window manager.
+Arch Linux	An x86-64-optimized distribution targeted at experienced users. Arch runs on a rolling release system and uses the Pacman utility for package management.
+Artix Linux	Based on Arch Linux, but using OpenRC, Runit or s6 as init system instead of systemd.
+ArchLabs	Based on Arch Linux, with a custom installer, offers many choices of desktop environments and window managers.
+BlackArch	A cybersecurity-focused OS based on Arch Linux. It is designed to test security and run penetration tests. It includes window managers preconfigured, but no desktop environment.
+Chakra Linux	Originally derived from Arch Linux, with the latest KDE. For now uses the Pacman utility for package management. Strives to be Qt-only.
+EndeavourOS	Continuation of Antergos.
+Frugalware Linux	A general purpose Linux distribution designed for intermediate users. Has some influences from Slackware, and uses a heavily modified version of pacman, Pacman-G2, a fork of a cvs version of the complete rewrite of Pacman-G1 by Aurelien Foret (the old monolithic Pacman-G1 is written by Judd Vinet). The packages are tar archives compressed using xz.[106]
+Hyperbola GNU/Linux-libre	An Arch and Debian derivative without any blobs, without systemd support and with OpenRC as its default init system. Packages are built for i686 and x64. Unlike Arch, Hyperbola uses the long-term support model like Debian.
+LinHES	LinHES (Linux Home Entertainment Server) designed for use on home theater PCs (HTPCs), providing applications for recording TV and acting as a sound and video center.
+Manjaro	Based on Arch Linux, using its own repositories and ships with either Xfce, KDE, GNOME, or the CLI as the default desktop environment. Additional community-driven editions are available that use MATE, Cinnamon, Openbox, Awesome, i3, BSPWM, or Budgie as a base.
+Parabola GNU/Linux-libre	An Arch derivative without any blobs, plus various added packages. Packages are also built for ARMv7 in addition to i686 and x64. MATE and text-mode distributions available.
+Calculate Linux	Calculate Linux is a family of distributions.
+Chrome OS[109]	Chrome OS[110] is used on various Chromebooks, Chromeboxes and tablet computers. It is primarily Internet-based, launching each app within the Chrome browser. The OS features a user interface that looks very similar to Chrome instead of GNOME, Cinnamon, LXQt, Xfce, etc.
+Chromium OS	Chromium OS is a free and open-source operating system designed for running web applications and browsing the World Wide Web. It is the development version of Chrome OS, a Linux distribution made by Google.
+Container Linux	Linux distribution by CoreOS designed for clustered and containerized deployments with update subscription
+Knopperdisk	A Linux distribution aimed at USB sticks.
+Pentoo	Penetration-testing Live CD.
+Sabayon Linux	Made in Italy. It is a European Linux distribution based on Gentoo. However, it follows the "out of the box" philosophy, aiming to give the user a wide number of applications ready to use and a self-configured operating system. Like Gentoo, Sabayon uses the rolling release model; it uses a customized version of Red Hat's Anaconda Installer and includes a Media Center application.
+SystemRescueCD	System rescue Live CD version of Gentoo.
+Tin Hat Linux	Based on hardened Gentoo, this distribution is based primarily on security.
+Ututo	Made in Argentina.
+Absolute Linux	Absolute Linux is a Light-weight Linux distribution based on Slackware
+Austrumi Linux	A 108 MB bootable live CD as of version 1.9.3
+Frugalware Linux	A general-purpose Linux distribution designed for intermediate users who are familiar with command-line operations. Early versions were based on Slackware, but it is now an independently developed distribution.
+KateOS	A desktop distribution aimed at intermediate users. It uses Xfce as its default desktop environment. No longer in development.
+MuLinux	Floppy-based Linux distribution with replaceable modules
+NimbleX	Completely customizable through the NimbleX website. Now no longer producing new versions.
+Platypux	A French Linux distribution of the Slackware family
+Salix OS	Originally a fork of Zenwalk, Salix is a complete Linux distribution fully backwards compatible with Slackware. It uses Xfce, KDE, LXDE, Fluxbox or Ratpoison as its default desktop environment. Salix OS is available as 32 and 64bit version, and also as Live CD versions.
+Sentry Firewall	A firewall, server, or intrusion detection system distribution
+Slackintosh	An unofficial port of Slackware to the PowerPC architecture
+Slax (until version 4)	A live CD which aims to provide a complete desktop for general use. Permanent installation of Slax is not recommended or supported; it is designed for "live" use only. Also can be run from a USB flash drive.
+SuperGamer	A Live DVD distribution focused on gaming
+Topologilinux	Designed to run from within Microsoft Windows, Topologilinux can be installed without any changes to the user's hard disk. Outdated.
+VectorLinux	A lightweight Linux distribution designed to be easy to use even for new users. Generally considered well-suited for older hardware.
+Zenwalk	Originally a minimal version of Slackware, Zenwalk has evolved into a very different operating system; however, compatibility with Slackware is still maintained.
+ZipSlack	A lightweight and portable version of Slackware
+DNALinux	A small Linux distribution designed for running bioinformatics software, including BLAST and EMBOSS.
+Porteus	A small Linux distro based on Sector
+Linux From Scratch	A distribution and book on how to build GNU/Linux from its source code along with bootstrapping the GNU-tool-chain's sources.
+Lunar Linux	A distribution in which all packages are built from source. It is, in a sense, a Linux from Scratch framework.
+Guix System	A distribution built around the GNU Guix package manager, which provides purely functional package management with build automation, build isolation, easy system upgrades and rollbacks, and an emphasis on free software.
+Alpine Linux	A security-oriented, lightweight Linux distribution based on musl and BusyBox. Has a derivative, postmarketOS, for mobile devices.
+Android	Android is a mobile operating system bought and currently being developed by Google, based on a Google modified Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.[112]
+Billix	A live CD or live USB system administration toolkit and multi-boot distribution with the ability to install any of the included distributions.
+Clear Linux	Clear Linux OS is an open source, rolling release Linux distribution optimized for performance and security, from the Cloud to the Edge, designed for customization, and manageability
+CRUX	CRUX is a lightweight, x86-64-optimized Linux distribution targeted at experienced users. The focus is "keep it simple", which is reflected in a simple tar.xz-based package system, BSD-style initscripts, and a relatively small collection of trimmed packages
+CyanogenMod/CyanogenOS	CyanogenMod is a discontinued open-source operating system for mobile devices, based on the Android mobile platform.
+DD-WRT	Embedded firewall Linux distribution
+Dragora GNU/Linux-Libre	A Linux distribution written entirely from scratch[113] and sharing some similarities with Slackware. Approved by the GNU Project as a free operating system.[114]
+ELinOS	Linux distribution for embedded systems by SYSGO. ELinOS focuses on industrial application and provides real-time extensions.
+Fire OS	Amazon Fire OS is an Android-based mobile operating system produced by Amazon for its Fire Phone and Kindle Fire range of tablets, Echo and Echo Dot, and other content delivery devices like Fire TV; the tablet versions of the Kindle e-readers are the Fire range.
+Firefox OS	Firefox OS is a discontinued open-source operating system – made for smartphones, tablet computers and smart TVs – designed by Mozilla and external contributors.
+fli4l	A router and firewall Linux distribution[115]
+Foresight Linux	A rolling release Linux distribution built around the Conary package manager.
+GeeXboX	Live CD media center Linux distribution, mainly to play special-encoded video files (e.g.: .ogg, XVID) on home theater.
+Guix System Distribution (Guix System)	Declarative Linux distribution with atomic upgrades and rollbacks built on top of the GNU Guix package manager. Supports amongst others unprivileged package management and per-user profiles.
+GoboLinux	An alternative Linux distribution which redefines the file system hierarchy by installing everything belonging to one application in one folder under /Programs, and using symlinks from /System and its subfolders to point to the proper files.
+Jlime	Linux distribution for the HP Jornada 6xx and 7xx and NEC MobilePro 900(c) handhelds.
+KaiOS	KaiOS is a mobile operating system based on Linux, developed by KaiOS Technologies, a US-based company.
+Lightweight Portable Security (LPS)[116]	A distribution created by the United States Department of Defense that boots entirely in RAM
+LineageOS	LineageOS is a free and open-source operating system for smartphones, tablet computers, and set-top boxes, based on the Android mobile platform.
+Linux Router Project	Embedded networking appliance progenitor (defunct).
+Lunar Linux	A source code-based Linux distribution descended from Sorcerer.
+MCC Interim Linux	Possibly the first Linux distribution, created by the Manchester Computing Centre in February 1992
+MeeGo	MeeGo is a discontinued Linux distribution hosted by the Linux Foundation, using source code from the operating systems Moblin (produced by Intel) and Maemo (produced by Nokia).
+MkLinux	A legacy Linux distribution for PowerPC systems that runs the Linux kernel as a server on top of the Mach microkernel.
+MontaVista Linux	Embedded distribution by MontaVista Software
+Nitix	Developed by Net Integration Technologies Inc., Nitix claims to be the first autonomic Linux kernel–based server operating system.
+NixOS	Declarative Linux distribution with atomic upgrades and rollbacks built on top Nix package manager
+OpenWrt	A router and firewall Linux distribution, also other embedded systems, a lot of routing options via opkg available
+paldo	Independently developed desktop operating system and package manager (upkg) with a rolling release format and standard Gnome environment.
+Prevas Industrial Linux	Embedded systems customizable Linux distribution by Prevas.
+PS2 Linux	Sony Computer Entertainment Linux distribution released officially for the PlayStation 2 video game console.
+Puppy Linux	A mini Linux distribution which runs well under low-end PCs – even under 32 MB RAM.
+Replicant	Replicant is a free operating system (OS) based on the Android mobile platform that aims to replace all proprietary Android components with free-software counterparts.
+rPath	A distribution built around the Conary package manager. Discontinued.
+Sailfish OS	Sailfish OS is a Linux-based operating system based on open source projects such as Mer and including a closed source UI. The project is being developed by the Finnish company Jolla.
+SliTaz	With less than 40 MB a very small Live-Distribution, which uses 256 MB RAM (or with a special edition only 24 MB[117]) for a complete GUI.
+Smallfoot	Developed by the Santa Cruz Operation (SCO UNIX / SCO Group), formerly Caldera International and Caldera Systems – based on Caldera OpenLinux 3.x and 4.x binaries.
+SmoothWall	A router and firewall Linux distribution
+Softlanding Linux System	One of the earliest Linux distributions, developed from 1992–1994; Slackware was originally based on it.
+Solus	Desktop Linux distribution offering Budgie, GNOME, MATE and KDE Plasma desktop environments, eopkg for package management.
+Source Mage	A source code-based Linux distribution, descended from Sorcerer.
+Thinstation	Thin client Linux distribution supporting all major connectivity protocols.
+Tinfoil Hat Linux	Bootable floppy Linux distribution focusing on extreme security
+Tiny Core Linux	Tiny Core Linux is a minimalist (around 10 MB) Linux system focusing on providing a base system with BusyBox, FLTK and other minimalist software.
+Tizen	Tizen is a Linux-based mobile operating system backed by the Linux Foundation but developed and used primarily by Samsung Electronics.
+tomsrtbt	Root boot disk.
+Void Linux	Void is a general purpose operating system, based on the monolithic Linux kernel. Its package system allows you to quickly install, update and remove software; software is provided in binary packages or can be built directly from sources with the help of the XBPS source packages collection.
+Yggdrasil Linux/GNU/X	One of the oldest Linux distributions, not updated since 1995.
